@@ -1,15 +1,15 @@
 {
-  "name": "sticky-cluster",
+  "name": "master-sticky-cluster",
   "version": "0.3.5",
-  "repository": "https://github.com/uqee/sticky-cluster.git",
-  "description": "Sticky session balancer, 10x faster and with much better scattering than `sticky-session` module",
+  "repository": "https://github.com/DecathectZero/sticky-cluster",
+  "description": "Sticky session balancer, 10x faster and with much better scattering than `sticky-session` module, with master function",
   "keywords": [
     "cluster",
     "sticky",
     "sticky-session",
     "sticky-cluster"
   ],
-  "author": "Denis Zhbankov",
+  "author": "Denis Zhbankov, Tyler Han",
   "scripts": {},
   "main": "./lib/index",
   "dependencies": {
