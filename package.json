@@ -1,5 +1,5 @@
 {
-  "name": "master-sticky-cluster",
+  "name": "sticky-cluster",
   "version": "0.3.5",
   "repository": "https://github.com/DecathectZero/sticky-cluster",
   "description": "Sticky session balancer, 10x faster and with much better scattering than `sticky-session` module, with master function",
@@ -9,7 +9,7 @@
     "sticky-session",
     "sticky-cluster"
   ],
-  "author": "Denis Zhbankov, Tyler Han",
+  "author": "Denis Zhbankov",
   "scripts": {},
   "main": "./lib/index",
   "dependencies": {
